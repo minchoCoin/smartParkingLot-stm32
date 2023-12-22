@@ -45,10 +45,12 @@ J-link를 컴퓨터와 연결하였는데 드라이버가 인식이 되지 않�
 
 # 동작 영상(더빙)
 사진을 클릭하면 동영상 링크가 클릭됩니다.
+
 [![이미지](https://img.youtube.com/vi/imnr4QyE7CQ/0.jpg)](https://www.youtube.com/watch?v=imnr4QyE7CQ)
 
 # 동작 영상(원본)
 사진을 클릭하면 동영상 링크가 클릭됩니다.
+
 [![이미지](https://img.youtube.com/vi/Hjx3WL4Kr9Q/0.jpg)](https://www.youtube.com/watch?v=Hjx3WL4Kr9Q)
 
 # 기능
